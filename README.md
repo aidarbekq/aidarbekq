@@ -6,7 +6,7 @@
 
 - 💪 I enjoy coding
 - 🎉 I like reading books
-- 🥅 I'm learning, growin and improving
+- 🥅 I'm learning, growing and improving
 
 [comment]: <> (- ⚡ I love writing an article for https://webtricks-master.ru/)
 
