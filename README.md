@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Aidarbek
 
-![](https://komarev.com/ghpvc/?username=aidarbeqk)
 
 ## I'm a Backend Developer
 
