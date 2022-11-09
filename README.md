@@ -46,7 +46,7 @@
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aidarbekq&show_icons=true" />
 </details>
 
-[telegram]: https://teleg.one/aidarbeqk
+[telegram]: https://teleg.one/aidarbekq
 [youtube]: https://www.youtube.com/channel/
-[linkedin]: https://www.linkedin.com/in/
+[linkedin]: https://www.linkedin.com/in/aidarbekq/
 [instagram]: https://www.instagram.com/19aidarbek/
