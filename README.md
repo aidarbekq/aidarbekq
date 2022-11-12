@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Aidarbek
 
 
-## I'm a Backend Developer
+## I'm a Python Developer
 
 - 👨🏻‍💻 I enjoy coding
 - 📚 I like reading books
