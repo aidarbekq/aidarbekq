@@ -3,9 +3,9 @@
 
 ## I'm a Python Developer
 
-#- 👨🏻‍💻 I enjoy coding
-#- 📚 I like reading books
-#- 🥅 I'm learning, growing and improving
+{- 👨🏻‍💻 I enjoy coding}
+- 📚 I like reading books
+- 🥅 I'm learning, growing and improving
 
 [comment]: <> ()
 
