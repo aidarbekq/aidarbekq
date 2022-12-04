@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Aidarbek
+### Hi there, I'm Aidarbek
 
 
 ## I'm a Python Developer
