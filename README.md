@@ -1,7 +1,7 @@
 ### Hi there, I'm Aidarbek
 
 
-## I'm a Python Developer
+## I'm a Back End Developer
 
 [comment]: <> ()
 
